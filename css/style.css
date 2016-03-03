@@ -1,0 +1,215 @@
+h2 {
+	line-height: .001;
+	font-family: "Arial Black";
+	color: white;
+}
+*{box-sizing: border-box;}
+
+.home {
+	background: url('../images/backgroundcollage.jpg') no-repeat; 
+	background-size: cover;
+}
+
+#j {
+	margin-left:780px;
+	font-size: 100px;
+	color: white;
+}
+
+#u {
+	margin-bottom: 3px;
+	margin-left:420px;
+	font-size: 100px;
+	color: white;
+}
+
+#n {
+	margin-left: 550px;
+	font-size: 100px;
+	color: white;
+}
+
+.e {
+	margin-left: 890px;
+	font-size: 100px;
+	color: white;
+}
+
+#l {
+	margin-bottom: 3px;
+	margin-left:430px;
+	font-size: 100px;
+	color: white;
+}
+
+a.navigationhome {
+	font-family:"Courier New";
+	color: black;
+	width:50px;
+	background-color: white;
+	margin-left: 670px;
+	margin-top: 100px;
+	text-decoration: none;
+	line-height: 2;
+}
+
+.navbarhome {
+	width: 50px;
+}
+
+
+a.links{
+	font-family:"Courier New";
+	color: white;
+	background-color: black;
+	text-decoration: none;
+	line-height: 2;
+}
+
+.navbar {
+	float: left;
+	position: fixed;
+	left: -30px;
+}
+
+
+.about {
+	font-family:"Courier New";
+	font-size: 10px;
+	width: 300px;
+	text-align: left;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+
+.profile {
+	width: 300px;
+	float: left;
+	margin-top: 20px;
+	margin-left: 100px;
+}
+
+.imagelinksdiv { 
+	float:right;
+	height: 150px;
+	margin-top: 10px;
+}
+
+
+/* #imglayout {
+	margin-left: 300px;
+} */
+
+
+div.galleryentry {
+	height:150px;
+	width: 200px;
+	float:left;
+
+
+}
+
+div.galleryentry img {
+	width: 100%;
+}
+
+div.gallery {
+	width:800px;
+	margin-top:20px;
+	float:right;
+	
+}
+
+
+
+div.galleryentry-1col {
+	width: 800px;
+	float:left;
+}
+
+div.galleryentry-1col img
+{
+	width: 100%;
+	margin-bottom:20px;
+}
+
+div.gallery-1col {
+	width:800px;
+	margin-top:20px;
+	float:right;
+}
+
+
+div.galleryentry-2col {
+	height:500px;
+	width: 400px;
+	float:left;
+}
+
+div.galleryentry-2col img
+{
+	width: 100%;
+}
+
+div.gallery-2col {
+	width:800px;
+	margin-top:20px;
+	float:right;
+	
+}
+
+div.galleryentry-sameheight {
+	float: left;}
+
+div.galleryentry-sameheight img{
+	height: 200px;}
+
+div.galleryentry-2col {
+	height:500px;
+	width: 400px;
+	float:left;
+}
+
+div.gallery-workhome{
+	width:1200px;
+	margin-top:20px;
+	float:right;
+	}
+
+.text {
+	font-family:"Courier New";
+	font-size: 10px;
+	width: 300px;
+	text-align: left;
+	position: fixed;
+	margin-left: 30px;
+	margin-top: 20px;
+	left: 100px;
+}
+
+.subtitle { 
+	top: 10px;
+	font-family: "Arial Black";
+	font-size: 30px;
+	width: 40px;
+	position: fixed;
+	top: 600px;
+}
+
+.socialmediabar{
+	position: fixed;
+	top: 18px;
+	right: 40px;
+
+}
+
+ul {
+    list-style-type: none;
+}
+
+a.socialmedialink{
+	font-family:"Courier New";
+	color: white;
+	background-color: black;
+	text-decoration: none;}
